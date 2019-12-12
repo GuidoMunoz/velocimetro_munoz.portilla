@@ -1,0 +1,1 @@
+"./USART_implement_me.obj" "./gps.obj" "./main.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
