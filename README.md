@@ -14,14 +14,14 @@ al terminal serial para verlo en el PC).
 
 En el caso ideal los datos se ven así. Notar que la linea $GPGGA contiene info acerca de la ubicación y la hora
 
-![imagen](https://imgur.com/YvvCeB1)
+![imagen](https://imgur.com/YvvCeB1.png)
 
 A veces los datos pueden venir con "basura" en ellos. Otras veces puede recoger datos totalmente erroneos. Esto implica
 una función capaz de manejar estos datos y ser capaz de ocuparlos de la manera mas genérica posible
 
-![imagen](https://imgur.com/IQH3zyu)
+![imagen](https://imgur.com/IQH3zyu.png)
 
-#Links utiles
+# Links utiles
 
 https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/ - Recepcion ocupando arduino
 
